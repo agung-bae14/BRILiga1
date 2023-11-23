@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">LigaSatu</string>
     <string name="klub_nama">Nama Club</string>
     <string name="stadion_nama">Stadion</string>
@@ -102,7 +102,7 @@ Seiring berkembangnya waktu, Persebaya menjelma menjadi tulang punggung sepak bo
         <item>Persis Solo didirikan sejak 8 November 1923 dengan sebelumnya menggunakan nama Vorstenlandsche Voetbal Bond (VVB). VVB hadir atas keyakinan bahwa permainan sepak bola dapat dimainkan oleh siapapun tanpa ada Batasan tertentu. </item>
         <item>Persita Tangerang adalah klub sepak bola Indonesia yang berbasis di Kabupaten Tangerang. Klub ini dipelopori oleh Almarhum Umran dan lahir sejak 19 April 1940 dan resmi didirikan pada 15 September 1945. Keberadaannya baru diakui secara resmi oleh PSSI (Persatuan Sepak bola Seluruh Indonesia) pada 9 September 1953. Setelah musyawarah dengan para pengurus, hingga saat ini tanggal tersebut lah yang dijadikan sebagai hari jadi Persita Tangerang.</item>
         <item>Perserikatan Sepak Bola Sleman atau biasa disebut PSS Sleman didirikan pada 20 Mei 1976. Super Elang Jawa yang menjadi julukan tim PSS didirikan usai Komda PSSI DIY kala itu, Prof. Dr. Sardjono menyatakan bahwa syarat untuk membentuk perserikatan sepak bola minimal terdapat lima klub. Kabupaten Sleman saat itu sudah memiliki lima klub yaitu PS Mlati, AMS Seyegan, PSK Kalasan, Godean Putra, dan PSKS Sleman sehingga mimpi masyarakat Sleman akhirnya terwujud dengan didirikannya klub PSS Sleman.</item>
-        <item>Akuisisi yang dilakukan selebritas Raffi Ahmad pada 31 Maret 2021 membuat Cilegon United resmi berganti nama menjadi RANS Cilegon FC di Liga 2 musim 2022. Di musim pertamanya, The Phoenix yang sempat tertatih-tatih di awal musim, berhasil lolos ke semifinal, yang sekaligus memastikan tempatnya di Liga 1 musim 2022-2023. Selain menjadi runner-up, RANS FC meraih gelar Tim Fair Play dan Pemain Terbaik Liga 2.</item>
+        <item tools:ignore="TypographyDashes">Akuisisi yang dilakukan selebritas Raffi Ahmad pada 31 Maret 2021 membuat Cilegon United resmi berganti nama menjadi RANS Cilegon FC di Liga 2 musim 2022. Di musim pertamanya, The Phoenix yang sempat tertatih-tatih di awal musim, berhasil lolos ke semifinal, yang sekaligus memastikan tempatnya di Liga 1 musim 2022-2023. Selain menjadi runner-up, RANS FC meraih gelar Tim Fair Play dan Pemain Terbaik Liga 2.</item>
         <item>Persatuan Sepak bola Makassar (disingkat PSM Makassar atau PSM) adalah sebuah klub sepak bola profesional Indonesia yang berbasis di Kota Makassar, Sulawesi Selatan. PSM Makassar merupakan salah satu klub sepak bola tertua di Indonesia yang didirikan pada tahun 1915 dengan nama Macassarche Voetbalbond (MVB). Saat ini PSM Makassar bermain di BRI Liga 1.</item>
     </string-array>
 
@@ -121,7 +121,7 @@ Seiring berkembangnya waktu, Persebaya menjelma menjadi tulang punggung sepak bo
 
     <string-array name="gambar_club">
         <item>https://republikbobotoh.com/assets/uploads/2022/02/starting-xi-persib-vs-bhayangkara-fc-ee8c_mid.jpg</item>
-        <item>https://www.portaljateng.id/wp-content/uploads/2023/07/dsc0047116750673291675229867-696x464.jpg</item>
+        <item tools:ignore="TypographyDashes">https://www.portaljateng.id/wp-content/uploads/2023/07/dsc0047116750673291675229867-696x464.jpg</item>
         <item>https://www.fajarpendidikan.co.id/wp-content/uploads/2022/12/lineup_BALI_UNITED_FC_1668071453.webp</item>
         <item>https://www.diskop.id/wp-content/uploads/2023/04/borneo-fc.jpg</item>
         <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/01/29/2066757779.jpg</item>
