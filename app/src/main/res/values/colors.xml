@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="primary">#626200</color>
+    <color name="secondary">#606043</color>
+    <color name="tertiary">#3d6657</color>
+    <color name="onPrimary">#ffffff</color>
+    <color name="onSecondary">#ffffff</color>
+    <color name="onTertiary">#ffffff</color>
+    <color name="dprimary">#cdcd00</color>
+    <color name="dsecondary">#cac8a5</color>
+    <color name="dtertiary">#a4d0bd</color>
+    <color name="donPrimary">#323200</color>
+    <color name="donSecondary">#323218</color>
+    <color name="donTertiary">#0b372a</color>
+</resources>

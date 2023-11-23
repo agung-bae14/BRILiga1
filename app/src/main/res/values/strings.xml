@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">LigaSatu</string>
+    <string name="klub_nama">Nama Club</string>
+    <string name="stadion_nama">Stadion</string>
+    <string name="person">person</string>
+    <string name="nama_saya">Agung Muhammad Albaehaqi</string>
+    <string name="email">agungmuhammadalbaehaqi199@gmail.com</string>
+    <string name="berdiri">Berdiri</string>
+    <string name="manager">Manager</string>
+    <string name="pelatih">Pelatih</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="deskripsi">Deskripsi</string>
+
+    <string-array name="nama_club">
+        <item>PERSIB BANDUNG</item>
+        <item>PERSIJA JAKARTA</item>
+        <item>BALI UNITED FC</item>
+        <item>BORNEO FC SAMARINDA</item>
+        <item>PERSEBAYA SURABAYA</item>
+        <item>PERSIS SOLO</item>
+        <item>PERSITA TANGERANG</item>
+        <item>PSS SLEMAN</item>
+        <item>RANS NUSANTARA FC</item>
+        <item>PSM MAKASSAR</item>
+    </string-array>
+
+    <string-array name="berdiri">
+        <item>1933</item>
+        <item>1928</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>1927</item>
+        <item>1923</item>
+        <item>1953</item>
+        <item>1976</item>
+        <item>1970</item>
+        <item>1915</item>
+    </string-array>
+
+    <string-array name="manager">
+        <item>H. UMUH MUCHTAR</item>
+        <item>GANESHA PUTERA</item>
+        <item>MICHAEL IMMANUEL GERALD</item>
+        <item>ANDRI DAURI HUSAIN</item>
+        <item>YAHYA HASAN ALKATIRI</item>
+        <item>LALU DION PRATAMA</item>
+        <item>I NYOMAN SURYANTHARA</item>
+        <item>LOPEZ GUSTAVO FABIAN</item>
+        <item>HAMKA</item>
+        <item>MUHAMMAD NUR FAJRIN</item>
+    </string-array>
+
+    <string-array name="pelatih">
+        <item>BOJAN HODAK</item>
+        <item>THOMAS JENS UWE DOLL</item>
+        <item>ALESSANDRO STEFANO CUGURRA RODRIGUES</item>
+        <item>PIETER EGGE HUISTRA</item>
+        <item>-</item>
+        <item>LEONARDO MEDINA ARELLANO</item>
+        <item>LUIS EDMUNDO DURAN RIQUELME</item>
+        <item>MARIAN CUCCHIARONI MIHAIL</item>
+        <item>EDUARDO FILIPE ARROJA ALMEIDA</item>
+        <item>BERNARDO TAVARES FERNANDO JOSE</item>
+    </string-array>
+
+    <string-array name="stadion">
+        <item>GELORA BANDUNG LAUTAN API</item>
+        <item>PATRIOT CHANDRA BHAGA</item>
+        <item>KAPTEN I WAYAN DIPTA</item>
+        <item>SEGIRI</item>
+        <item>GELORA BUNG TOMO</item>
+        <item>MANAHAN</item>
+        <item>INDOMILK ARENA</item>
+        <item>MAGUWOHARJO</item>
+        <item>PAKANSARI</item>
+        <item>GELORA B. J. HABIBIE</item>
+    </string-array>
+
+    <string-array name="lokasi">
+        <item>GRAHA PERSIB 3RD FLOOR JL.SULANJANA NO.17</item>
+        <item>RASUNA OFFICE PARK GRAUND FLOOR 02 LOBBY AREA .JL</item>
+        <item>JL.PARARATON 2, LEGIAN KUTA KAB. BADUNG BALI 8036</item>
+        <item>JL KUSUMA BANGSA STADION SEGIRI LORONG VIP NO 1 KE</item>
+        <item>JL. HAYAM WURUK NO. 6</item>
+        <item>JALAN DR. SOETOMO NO. 8 -10, SRIWEDARI</item>
+        <item>JL KELAPA PUAN RAYA BLOK AF NO 1</item>
+        <item>JL. RANDUGOWANG, RT.01/ RW.17, TEGALWERU,SARIHARJO</item>
+        <item>JL. MARGSATWA NO.14E, PD. LABU, CILANDAK</item>
+        <item>JL. BALAI KOTA NO. 10 A MAKASSAR/JL. CENDRAWASIH</item>
+    </string-array>
+
+    <string-array name="desk">
+        <item>Sebelum lahir nama Persib, pada tahun 1923 di Kota Bandung berdiri Bandoeng Inlandsche Voetbal Bond (BIVB). BIVB ini merupakan salah satu organisasi perjuangan kaum nasionalis pada masa itu. Tercatat sebagai Ketua Umum BIVB adalah Syamsudin yang kemudian diteruskan oleh putra pejuang wanita Dewi Sartika, yakn i R. Atot.
+        BIVB kemudian menghilang dan muncul dua perkumpulan lain bernama Persatuan Sepak bola Indonesia Bandung (PSIB) dan National Voetball Bond (NVB). Pada 14 Maret 1933 kedua klub itu sepakat melebur dan lahirlah perkumpulan baru yang bernama Persib yang kemudian memilih Anwar St. Pamoentjak sebagai ketua umum. Klub- klub yang bergabung ke dalam Persib adalah SIAP, Soenda, Singgalang, Diana, Matahari, OVU, RAN, HBOM, JOP, MALTA, dan Merapi. Setelah tampil tiga kali sebagai runner up pada Kompetisi Perserikatan 1933 (Surabaya), 1934 (Bandung), dan 1936 (Solo), Persib mengawali juara pada Kompetisi 1939 di Solo.</item>
+        <item>Persija Jakarta didirikan oleh Soeri dan Alie pada 28 November 1928 dengan nama awal Voetballbond Indonesia Jacatra (VIJ). Berdirinya VIJ sebagai wadah berkumpulnya klub-klub sepak bola nasionalis di Batavia pada masa itu.</item>
+        <item>Bali United Football Club adalah klub profesional Indonesia yang bermarkas di Gianyar, Bali. Bali United resmi menjadi klub yang berasal dari Bali pada tahun 2015.Klub ini terus konsisten berada di strata tertinggi kompetisi sepak bola Indonesia di Liga 1. Julukan Bali United adalah Serdadu Tridatu dengan komunitas fans yang cukup banyak. Skuad Serdadu Tridatu hadir dengan usia klub yang terbilang muda menjelma menjadi tim dengan inovasi dan kreatifitas di dalam maupun di luar lapangan yang sangat luar biasa. Prestasi juara Liga 1 2019 dan musim 2021/2022 adalah bukti dari kualitas tim modern ini hadir di persepakbolaan Indonesia.
+Hal ini sejalan dengan visi dan misi di awal kehadirannya pada tahun 2015 silam, dengan membuat industri sepak bola di Indonesia menjadi lebih berkembang melalui ekosistem BEYOND FOOTBALL melalui ekosistem dari 4C yaitu, Club, Community, Corporation and Country.</item>
+        <item>Borneo FC Samarinda yang dimiliki oleh Nabil Husien Said Amin ini didirikan pada 7 Maret 2014. Berbasis di Samarinda, klub ini berjuluk Pesut Etam. Borneo FC Samarinda yang sebelumnya bernama Pusamania Borneo FC ini dalam sejarahnya sudah mengoleksi gelar Divisi Utama di tahun 2014, gelar ini terasa spesial karena didapat  dalam kurun waktu kurang dari satu tahun usia berdirinya Borneo FC Samarinda.
+</item>
+        <item>Persebaya adalah salah satu tim legendaris di Indonesia. Didirikan pada 8 Juni tahun 1927. Sosok Paijo dan M. Pamoedji berada di balik pendirian klub kebanggaan arek-arek Suroboyo ini. Awalnya Persebaya didirikan dengan nama Soerabhaisasche Indonesische Voetbal Bond (SIVB).
+Seiring berkembangnya waktu, Persebaya menjelma menjadi tulang punggung sepak bola Indonesia. Persebaya menjadi salah satu pelopor pendirian Persatuan Sepak bola Seluruh Indonesia (PSSI) pada 19 April 1930. Prestasi demi Prestasi ditorehkan di berbagai era kompetisi. Sejak klub berjuluk Bajol Ijo ini berdiri dan mengikuti Perserikatan, mereka sudah menjuarai kompetisi tersebut sebanyak 6 kali, yaitu 1941, 1950, 1951, 1952, 1975/1978, dan 1987/1988. Lalu, ketika kompetisinya berganti menjadi Liga Indonesia, Persebaya juga mendapat gelar juara beberapa kali. Tepatnya pada musim 1996 dan 2004.</item>
+        <item>Persis Solo didirikan sejak 8 November 1923 dengan sebelumnya menggunakan nama Vorstenlandsche Voetbal Bond (VVB). VVB hadir atas keyakinan bahwa permainan sepak bola dapat dimainkan oleh siapapun tanpa ada Batasan tertentu. </item>
+        <item>Persita Tangerang adalah klub sepak bola Indonesia yang berbasis di Kabupaten Tangerang. Klub ini dipelopori oleh Almarhum Umran dan lahir sejak 19 April 1940 dan resmi didirikan pada 15 September 1945. Keberadaannya baru diakui secara resmi oleh PSSI (Persatuan Sepak bola Seluruh Indonesia) pada 9 September 1953. Setelah musyawarah dengan para pengurus, hingga saat ini tanggal tersebut lah yang dijadikan sebagai hari jadi Persita Tangerang.</item>
+        <item>Perserikatan Sepak Bola Sleman atau biasa disebut PSS Sleman didirikan pada 20 Mei 1976. Super Elang Jawa yang menjadi julukan tim PSS didirikan usai Komda PSSI DIY kala itu, Prof. Dr. Sardjono menyatakan bahwa syarat untuk membentuk perserikatan sepak bola minimal terdapat lima klub. Kabupaten Sleman saat itu sudah memiliki lima klub yaitu PS Mlati, AMS Seyegan, PSK Kalasan, Godean Putra, dan PSKS Sleman sehingga mimpi masyarakat Sleman akhirnya terwujud dengan didirikannya klub PSS Sleman.</item>
+        <item>Akuisisi yang dilakukan selebritas Raffi Ahmad pada 31 Maret 2021 membuat Cilegon United resmi berganti nama menjadi RANS Cilegon FC di Liga 2 musim 2022. Di musim pertamanya, The Phoenix yang sempat tertatih-tatih di awal musim, berhasil lolos ke semifinal, yang sekaligus memastikan tempatnya di Liga 1 musim 2022-2023. Selain menjadi runner-up, RANS FC meraih gelar Tim Fair Play dan Pemain Terbaik Liga 2.</item>
+        <item>Persatuan Sepak bola Makassar (disingkat PSM Makassar atau PSM) adalah sebuah klub sepak bola profesional Indonesia yang berbasis di Kota Makassar, Sulawesi Selatan. PSM Makassar merupakan salah satu klub sepak bola tertua di Indonesia yang didirikan pada tahun 1915 dengan nama Macassarche Voetbalbond (MVB). Saat ini PSM Makassar bermain di BRI Liga 1.</item>
+    </string-array>
+
+    <string-array name="logo_club">
+        <item>https://upload.wikimedia.org/wikipedia/id/1/12/Logo_Persib.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/9/94/Persija_Jakarta_logo.png/263px-Persija_Jakarta_logo.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/5/5e/Bali_United_logo.svg/270px-Bali_United_logo.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/4/4d/Logo_Borneo_FC.svg/300px-Logo_Borneo_FC.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/a/a1/Persebaya_logo.svg/300px-Persebaya_logo.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Persis_Solo_logo.svg/300px-Persis_Solo_logo.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/9/95/Persita_logo_%282020%29.svg/263px-Persita_logo_%282020%29.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/c/c9/PSS_Sleman_logo.svg/255px-PSS_Sleman_logo.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/4/49/Logo_RANS_Nusantara_FC.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/b/b8/Logo_PSM_Makasar_Baru.png</item>
+    </string-array>
+
+    <string-array name="gambar_club">
+        <item>https://republikbobotoh.com/assets/uploads/2022/02/starting-xi-persib-vs-bhayangkara-fc-ee8c_mid.jpg</item>
+        <item>https://www.portaljateng.id/wp-content/uploads/2023/07/dsc0047116750673291675229867-696x464.jpg</item>
+        <item>https://www.fajarpendidikan.co.id/wp-content/uploads/2022/12/lineup_BALI_UNITED_FC_1668071453.webp</item>
+        <item>https://www.diskop.id/wp-content/uploads/2023/04/borneo-fc.jpg</item>
+        <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/01/29/2066757779.jpg</item>
+        <item>https://republikbobotoh.com/assets/uploads/2022/09/persis-solo-lib-b7fa_mid.jpg</item>
+        <item>https://rm.id/files/konten/berita/liga-1-indonesia-persita-vs-madura-united-pendekar-cisadane-makin-kompak_138700.jpg</item>
+        <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/12/3511352882.jpg</item>
+        <item>https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/07/28/1873202926.jpg</item>
+        <item>https://asset-2.tstatic.net/toraja/foto/bank/images/Skuad-PSM-Makassar.jpg</item>
+    </string-array>
+</resources>

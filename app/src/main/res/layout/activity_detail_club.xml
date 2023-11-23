@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailClub">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/logo_detail"
+                android:layout_width="115dp"
+                android:layout_height="130dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:scaleType="fitCenter"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@tools:sample/avatars" />
+
+            <TableLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/logo_detail"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:id="@+id/nama_detail1"
+                        style="@style/TextJudul.gelap"
+                        android:text="@string/klub_nama" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp">
+
+                    <TextView
+                        style="@style/TextContent.BodyMedium"
+                        android:id="@+id/ssa"
+                        android:text="@string/berdiri" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp">
+
+                    <TextView
+                        style="@style/TextContent.BodyMedium"
+                        android:id="@+id/berdiri_detail"
+                        android:text="@string/berdiri" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp">
+
+                    <TextView
+                        style="@style/TextContent.BodyMedium"
+                        android:id="@+id/ss1"
+                        android:text="@string/stadion_nama" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp">
+
+                    <TextView
+                        style="@style/TextContent.BodyMedium"
+                        android:id="@+id/stadion_detail"
+                        android:text="@string/stadion_nama" />
+                </TableRow>
+            </TableLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <TableLayout
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    style="@style/TextContent.BodyMedium"
+                    android:layout_width="match_parent"
+                    android:id="@+id/ss"
+                    android:text="@string/manager" />
+                <TextView
+                    style="@style/TextContent.BodyMedium"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="match_parent"
+                    android:id="@+id/ssa1"
+                    android:text="@string/pelatih" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium"
+                    android:layout_width="match_parent"
+                    android:id="@+id/manager_detail"
+                    android:text="@string/manager" />
+                <TextView
+                    style="@style/TextContent.BodyMedium"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="match_parent"
+                    android:id="@+id/pelatih_detail"
+                    android:text="@string/pelatih" />
+
+            </TableRow>
+        </TableLayout>
+        <TextView
+            style="@style/TextContent.BodyMedium"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ssd"
+            android:text="@string/lokasi" />
+        <LinearLayout
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                style="@style/TextContent.BodyMedium"
+                android:id="@+id/lokasi_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lokasi" />
+        </LinearLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primary">
+
+            <TextView
+                android:id="@+id/nama_detail"
+                style="@style/TextJudul.terang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="1dp"
+                android:paddingBottom="5dp"
+                android:text="@string/klub_nama"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <ImageView
+                android:id="@+id/action_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/baseline_share_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <ImageView
+            android:id="@+id/img_detail"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            android:scaleType="centerCrop"
+            tools:src="@tools:sample/avatars"/>
+        <TextView
+            style="@style/TextContent.BodyMedium"
+            android:id="@+id/desk_detail"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/deskripsi" />
+    </LinearLayout>
+
+</ScrollView>
